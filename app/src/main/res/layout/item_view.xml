@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:elevation="8dp"
+        android:padding="8dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/person_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="4dp"
+                android:singleLine="true"
+                android:text="Person Name Here"
+                android:textColor="@color/primary_text"
+                android:textSize="20sp"/>
+
+            <LinearLayout
+                android:id="@+id/person_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/person_name"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/person_address1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/person_name"
+                    android:layout_marginLeft="4dp"
+                    android:singleLine="true"
+                    android:text="Address 1 here"
+                    android:textColor="@color/secondary_text"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/person_address2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/person_address1"
+                    android:layout_marginLeft="4dp"
+                    android:singleLine="true"
+                    android:text="Address 2 here"
+                    android:textColor="@color/secondary_text"
+                    android:textSize="18sp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/person_phone_nums"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/person_address"
+                android:layout_marginLeft="4dp"
+                android:orientation="vertical">
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/add_person_button"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignBottom="@+id/person_phone_nums"
+                android:layout_alignParentBottom="false"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="false"
+                android:layout_marginBottom="4dp"
+                android:layout_marginRight="8dp"
+                android:baselineAlignBottom="false"
+                android:clickable="true"
+                android:nestedScrollingEnabled="false"
+                android:src="@drawable/ic_person_add"
+                android:tint="@color/primary_text"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

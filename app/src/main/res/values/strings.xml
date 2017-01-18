@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shemesh</string>
+    <string name="search_button">Search</string>
+    <string name="results_found">\u0020results found</string>
+    <string name="only_showing_40">, only showing 40.</string>
+    <string name="no_connection_toast">No internet connection</string>
+    <string name="name_input_hint">Enter name here to search</string>
+    <string name="clear_search_history_menu_item">Clear search history</string>
+    <string name="about_menu_item">About</string>
+    <string name="clear_history_dialog_title">Clear search history?</string>
+    <string name="clear_history_dialog_message">This will erase all search hisrory</string>
+    <string name="dialog_yes_button">Yes</string>
+    <string name="dialog_no_button">No</string>
+    <string name="history_cleared_toast">History cleared</string>
+    <string name="add_contact_dialog_add">"Add "</string>
+    <string name="add_contact_dialog_to_your_contacts">\u0020to your contacts?</string>
+    <string name="add_to_contacts_dialog_title">Add to contacts?</string>
+    <string name="beit_shemesh">\u0020Beit Shemesh</string>
+    <string name="share_this_app">Share this app</string>
+    <string name="data_provided_by">data provided by</string>
+    <string name="shemesh_link">www.shemesh.co.il</string>
+
+</resources>

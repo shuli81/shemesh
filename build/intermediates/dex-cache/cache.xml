@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_cedb6b5733d7ad0abbe08b1d968562022ba576f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_55f9a54a5993d824f57f7cfe387d0a3d95696f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_4c0d2eef7b8d7242fbcd60774107a82898f2ac2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_8c0dc89940ac1ff36a4f9cf23f12d682516702fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_684c9ae959755a6f3acea636a5bb0deba563e5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_a560df36bfcb53870a02c99cbd1c79090dd49cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bfa7211a5e41b62d9e6ce08a681dc783e58f0be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9579e0901541b9e69053b4709342f9af85527521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_943a8f68d30f582a0b17f864558b18587423c43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a725d9bb42d2f37c997c2e155970cc4c82e31ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4_10183fe74801b87e7c4a4d52484a7d878efa4216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e306f6b34fcc8ce570fd1b39fd48ff3bb0dfba54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_c361064a931a1d445b57a834f7bbe68805df5ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0d2d75e3c47a17e930c00270cb1448b32acaa345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b3ee5d9e083b451d4a13fedeca0167f87beb5579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_5f5b0acac024ad9d237376e0b3c8253ef37967d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_26e428fa83ce203c51629998f3854cae49ed6f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Study\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2_43aa36a37ad071978b7d0aa9934cecea2860a507.jar" />
+    </item>
+
+</items>
