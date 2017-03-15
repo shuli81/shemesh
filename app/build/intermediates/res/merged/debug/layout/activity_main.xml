@@ -23,6 +23,7 @@
         android:hint="@string/name_input_hint"
         android:imeOptions="actionSearch"
         android:inputType="textFilter">
+
         <requestFocus/>
     </AutoCompleteTextView>
 

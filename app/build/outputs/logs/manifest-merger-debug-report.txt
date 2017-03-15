@@ -19,16 +19,16 @@ ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\Androi
 		ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml:7:5-22:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Android\.android\build-cache\741b8de7f0fafcb3714cbffea012192c17e7f1e4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Android\.android\build-cache\1a90dad6d1b452688edc14359e775db2f3d2d394\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Android\.android\build-cache\d7f55d6080828194b7511f6fdd8acda27867e74e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Android\.android\build-cache\1038d1763b335c12225645e0be0688fc1173abac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Android\.android\build-cache\9a1c29ffdd300fac6666a9f7056b4f902655e533\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Android\.android\build-cache\7cbb6f98d82a21ca33afb90337373725007d5bff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Android\.android\build-cache\50c82ad6676fde5c2cef29125d2bb872882e1324\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Android\.android\build-cache\760886e90820a6e9d54c2a904c7ddf40931a839e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Android\.android\build-cache\39daa89cebc7e42625debd3350382ebdace7fc5d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Android\.android\build-cache\b62e174fa36d54a1d4d270240c17d79d4d9e88c7\output\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -57,18 +57,18 @@ ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\Androi
 		ADDED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Android\.android\build-cache\741b8de7f0fafcb3714cbffea012192c17e7f1e4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Android\.android\build-cache\1a90dad6d1b452688edc14359e775db2f3d2d394\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Android\.android\build-cache\d7f55d6080828194b7511f6fdd8acda27867e74e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Android\.android\build-cache\1038d1763b335c12225645e0be0688fc1173abac\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Android\.android\build-cache\9a1c29ffdd300fac6666a9f7056b4f902655e533\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Android\.android\build-cache\7cbb6f98d82a21ca33afb90337373725007d5bff\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Android\.android\build-cache\50c82ad6676fde5c2cef29125d2bb872882e1324\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Android\.android\build-cache\760886e90820a6e9d54c2a904c7ddf40931a839e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Android\.android\build-cache\39daa89cebc7e42625debd3350382ebdace7fc5d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Android\.android\build-cache\b62e174fa36d54a1d4d270240c17d79d4d9e88c7\output\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Android\.android\build-cache\741b8de7f0fafcb3714cbffea012192c17e7f1e4\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Study\AndroidStudioProjects\Shemeshphone\app\src\main\AndroidManifest.xml
